@@ -5,3 +5,7 @@ A lightweight Retrieval-Augmented Generation (RAG) API built with Python and Fas
 ## How the RAG API Works
 
 ![RAG API architecture](images/Architecture.png)
+
+## Architecture of containerized RAG API
+
+![Containerized architecture](images/ContainerizedArchitecture.png)
