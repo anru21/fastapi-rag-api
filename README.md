@@ -9,3 +9,7 @@ A lightweight Retrieval-Augmented Generation (RAG) API built with Python and Fas
 ## Architecture of containerized RAG API
 
 ![Containerized architecture](images/ContainerizedArchitecture.png)
+
+## Architecture of application deployed in kubernetes
+
+![Kubernetes architecture](images/KubernetesArchitecture.png)
